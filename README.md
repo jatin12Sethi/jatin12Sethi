@@ -1,7 +1,10 @@
-<h2 align="left"> Namaste! I'm Jatin Sethi!</h2>
-
-###
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Jatin Sethi</h1>
+<h5 align="center">
+A 4th-year student pursuing Bachelors in Computer science studies with a specialization of AIML, from UPES Dehradun. I am a Data Science enthusiast, Web developer, and a Photographer. 
+</h5>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jatin12sethi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jatin12sethi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
