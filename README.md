@@ -12,7 +12,6 @@ A 4th-year student pursuing Bachelors in Computer science studies with a special
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
